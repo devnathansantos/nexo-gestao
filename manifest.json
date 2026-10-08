@@ -1,0 +1,10 @@
+{
+  "name": "NEXO Gestão",
+  "short_name": "NEXO",
+  "description": "Gestão simples e visual da empresa, mês a mês.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#eef6ff",
+  "icons": [{"src":"./logo.png","sizes":"1536x1024","type":"image/png","purpose":"any"}]
+}
