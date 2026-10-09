@@ -1,0 +1,18 @@
+{
+  "name": "NEXO Gestão",
+  "short_name": "NEXO",
+  "description": "Gestão prática para estética automotiva",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f8",
+  "theme_color": "#102b3f",
+  "icons": [
+    {
+      "src": "./nexo-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
